@@ -1,0 +1,7 @@
+#assistant{
+  background-color: #45a6dd;
+}
+#user{
+  background-color: oklch(44.6% 0.043 257.281);
+  margin-left: auto;
+}
